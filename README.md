@@ -1,0 +1,2 @@
+# 0Itsuki0-SwiftUI_SignInWithApple_ASAuthorizationController
+Sign In with apple using ASAuthorizationController for full control
